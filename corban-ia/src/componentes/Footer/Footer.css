@@ -1,0 +1,15 @@
+body {
+  font-family: var(--fonte-principal);
+}
+
+.titulo-footer {
+  color: var(--branco);
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.paragrafo-footer {
+  font-family: var(--fonte-principal);
+  color: var(--branco);
+  font-size: 15px;
+}
